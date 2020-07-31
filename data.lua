@@ -1,0 +1,5 @@
+require("prototypes.entity.beams")
+require("prototypes.entity.turrets")
+require("prototypes.item.turrets")
+require("prototypes.technology.turrets")
+require("prototypes.recipe.turrets")
